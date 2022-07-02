@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Montserrat&family=Roboto:wght@100&family=Tiro+Devanagari+Hindi&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+}
+
+body {
+    display: flex;
+}
+
+.lado_esq {
+    width: 21.3%;
+    text-align: center;
+    padding: 10px;
+}
+
+header {
+    padding-top: 100px;
+}
+
+main {
+    padding-top: 50px;
+}
+
+h1 img {
+    width: 60%;
+}
+
+h2 {
+    font-size: 15px;
+    font-weight: bolder;
+    padding-bottom: 15px;
+}
+
+.input_1 {
+    width: 91%;
+    height: 45px;
+    background-color: #E8E6E6;
+    border: none;
+    margin: 5px 0 5px 0;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.input_2 {
+    width: 91%;
+    height: 45px;
+    background-color: #E8E6E6;
+    border: none;
+    margin: 5px 0 5px 0;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.botoes_login {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.b_1 {
+    width: 25%;
+    height: 30px;
+    background-color: #2051FF;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.b_1 img {
+    width: 20px;
+    height: 20px;
+}
+
+.b_2 {
+    width: 25%;
+    height: 30px;
+    background-color: #8A0000;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.b_2 img {
+    width: 20px;
+    height: 20px;
+}
+
+.b_3 {
+    width: 25%;
+    height: 30px;
+    background-color: #000000;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.b_3 img {
+    width: 20px;
+    height: 20px;
+}
+
+.f-1 {
+    padding-top: 15px;
+}
+
+.input_check {
+    text-align: start;
+}
+
+.btn_entrar {
+    width: 25%;
+    height: 50px;
+    background-color: #FF002E;
+    border: none;
+    border-radius: 5px;
+    margin-top: 50px;;
+}
+
+.btn_entrar:hover {
+    cursor: pointer;
+}
+
+.btn_entrar img {
+    width: 20px;
+    height: 20px;
+}
+
+.p_1 {
+    margin-top: 15px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.p_2 {
+    font-size: 14px;
+}
+
+.lado_dir {
+    width: 78.7%;
+}
+
+.lado_dir img {
+    width: 100%;
+}
